@@ -1,0 +1,22 @@
+{
+	"YearList": [
+		{
+			"Name": "Final Year",
+			"Year Weighting": 0.1,
+			"IgnoreModules": false,
+			"YearGrade": 0,
+			"ModuleList": [
+				"Name": "Computer Animation",
+				"ModuleWeighting": 1,
+				"ModuleComponentList": [
+					{
+						"Name": "Exam",
+						"PercentageWeighting": 100,
+						"Mark": ,
+						"MarkOutOf": 100,
+					}
+				]
+			]
+		},
+	]
+}
